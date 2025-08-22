@@ -1,5 +1,4 @@
 [![Stack Logo](/.github/assets/logo.png)](https://stack-auth.com)
-
 <h3 align="center">
   <a href="https://docs.stack-auth.com">📘 Docs</a>
   | <a href="https://stack-auth.com/">☁️ Hosted Version</a>
